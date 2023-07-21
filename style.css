@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   font-family: 'Roboto Condensed', sans-serif;
+}
+#header{
+    background: #0a193d;
+}
+.navbar a{
+    color: white;
+}
+#banner{
+    background: #0a193d;
+    color: white;
+    padding: 80px 10px;
+}
+.banner-text{
+    width: 50%;
+}
+.banner-img{
+    width: 50%;
+}
+.p-text{
+    padding: 20px 0px;
+}
+#service{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.h4-st{
+    padding: 20px 0px;
+}
+#about-us{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#get-in{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.img-box img:hover{
+  translate: 0px -15px 0px;
+}
+#footer{
+    background: #0a193d;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
